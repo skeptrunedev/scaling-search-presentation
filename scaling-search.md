@@ -117,3 +117,8 @@ theme: gaia
 - Replicate shards for more read throughput
 - Different db's map their thread pools to shards differently and you should work with your vendor to address it
 
+---
+
+# Questions?
+
+Thank you!
