@@ -121,4 +121,6 @@ theme: gaia
 
 # Questions?
 
+![bg right:50%](https://cdn.trieve.ai/scaling-search-presentation/cubism-questions.jpeg)
+
 Thank you!
